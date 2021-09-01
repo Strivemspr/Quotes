@@ -12,4 +12,3 @@ React & React Router project. You can see the project live [HERE](https://react-
 - React Lazy Loading
 - API Calls
 - Firebase
-- 
