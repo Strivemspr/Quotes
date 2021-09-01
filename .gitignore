@@ -11,7 +11,7 @@ firebase-debug.*.log*
 .firebaserc
 firebase.json
 build/
-src/lib/
+src/lib/api.js
 
 # Firebase cache
 .firebase/
