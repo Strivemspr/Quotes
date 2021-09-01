@@ -6,10 +6,12 @@ yarn-debug.log*
 yarn-error.log*
 firebase-debug.log*
 firebase-debug.*.log*
+
+# Other Files
 .firebaserc
 firebase.json
 build/
-src/lib/api.js
+src/lib/
 
 # Firebase cache
 .firebase/
